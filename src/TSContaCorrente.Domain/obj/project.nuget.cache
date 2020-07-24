@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYEt+mFEePwE64YBgey/5PQDyHw+HB/PVZZPCniuxZTGMG0GAZBPK9PNIBoyn4WX3I1Q95aCy2CA6jtV5oHGcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wellington\\source\\repos\\TSContaCorrente\\src\\TSContaCorrente.Domain\\TSContaCorrente.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wellington\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

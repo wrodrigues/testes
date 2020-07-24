@@ -1,0 +1,9 @@
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\bin\Debug\netstandard2.0\TSContaCorrente.Domain.deps.json
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\bin\Debug\netstandard2.0\TSContaCorrente.Domain.dll
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\bin\Debug\netstandard2.0\TSContaCorrente.Domain.pdb
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.AssemblyInfoInputs.cache
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.AssemblyInfo.cs
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.dll
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.pdb
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\source\repos\TSContaCorrente\src\TSContaCorrente.Domain\obj\Debug\netstandard2.0\TSContaCorrente.Domain.csprojAssemblyReference.cache
