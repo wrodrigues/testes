@@ -32,7 +32,7 @@ namespace Mapeamento.Infra.Tests
         public void DeveMapearPersonDtoComSucesso()
         {
             //arrange
-            person.HomeAddress = new Address { AdressType = AddressType.Home, Street = "Rua André de Almeida 1620, Bloco 7 Apartamento 44" };
+            person.HomeAddress = new Address { AdressType = AddressType.Home, Street = "Rua André de Almeida" };
 
             //action
             var dto = mapper.Map<PersonDto>(person);
@@ -47,7 +47,7 @@ namespace Mapeamento.Infra.Tests
         public void DeveMapearPersonDtoSemEndereco()
         {
             //arrange
-            person.HomeAddress = new Address { AdressType = AddressType.Delivery, Street = "Rua André de Almeida 1620, Bloco 7 Apartamento 44" };
+            person.HomeAddress = new Address { AdressType = AddressType.Delivery, Street = "Rua André de Almeida" };
 
             //action
             var dto = mapper.Map<PersonDto>(person);
